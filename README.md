@@ -19,7 +19,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 
-## 🏆 Certificatios
+## 🏆 Certifications
 
 
 ## 📫 Get in Touch
